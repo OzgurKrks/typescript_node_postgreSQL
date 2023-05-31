@@ -1,6 +1,6 @@
 # typescript_node_postgreSQL
 TODO_CRUD typescript - ExpressJs - postgreSQL
-![](https://komarev.com/ghpvc/?username=aytugulıs)
+![](https://komarev.com/ghpvc/?username=aytugulis)
 # Getting started
 To get the Node server running locally:
 - Clone this repo
